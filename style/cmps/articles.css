@@ -1,0 +1,20 @@
+.articles{
+    flex-wrap: wrap;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 140px;
+    gap: 147px;
+}
+
+.card-icon{
+    max-width: 350px;
+}
+
+.card-icon svg{
+    margin-bottom: 2rem;
+}
+
+.card-icon h4{
+    margin-bottom: 0.57rem;
+}

@@ -1,0 +1,27 @@
+.hero{
+    text-align: center;
+}
+
+.hero h1{
+    font-family: raleway;
+    font-size: 40px;
+    max-width: 720px;
+}
+
+.hero img{
+    max-width: 720px;
+    max-height: 534px;
+    margin-bottom: 2em;
+}
+.hero p{
+    max-width: 589px;
+    margin-top: 2em;
+    margin-bottom: 1.7em;
+}
+
+.hero button{
+    width: 280px;
+    height: 56px;
+    margin-bottom: 10rem;
+}
+

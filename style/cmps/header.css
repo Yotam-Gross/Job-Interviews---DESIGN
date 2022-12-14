@@ -1,0 +1,10 @@
+header{
+min-height: 3.642rem;
+margin-top: 5.214rem;
+margin-bottom: 5.357rem;
+}
+
+.main-nav ul li{
+    margin-inline-start: 4.285rem;
+    font-family: raleway;
+}

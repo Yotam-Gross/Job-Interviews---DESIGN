@@ -1,0 +1,28 @@
+.recomandations{
+    gap: 40px;
+}
+
+.quotes {
+    background: url(https://res.cloudinary.com/trellis22/image/upload/v1671017268/Fylo/inusq0kpkomccc3njltr.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 70px;
+    position: absolute;
+    top: -40px;
+    left: -20px;
+}
+
+.recomend-card {
+    height: 200px;
+    width: 360px;
+    background-color: var(--clr5);
+    padding: 1.785em;
+    z-index: 1;
+}
+
+.recomand-user img {
+    height: 1.7rem;
+    width: 1.7rem;
+    border-radius: 50%;
+}

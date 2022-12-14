@@ -1,0 +1,12 @@
+@import './style/varibels.css';
+@import './style/helpers.css';
+@import './style/base.css';
+
+@import './style/cmps/header.css';
+@import './style/cmps/hero.css';
+@import './style/cmps/articles.css';
+@import './style/cmps/stay-productive.css';
+@import './style/cmps/recomandations.css';
+@import './style/cmps/form.css';
+@import './style/cmps/footer.css';
+
